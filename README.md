@@ -1,13 +1,13 @@
 <div align="center">
   <img src="src/assets/robot.png" alt="Robot Logo" width="120" />
 
-  # 🤖 AI Chatbot
-  
-  **A responsive, modern AI-powered chat application built with React, featuring persistent message history and a sleek UI.**
+# 🤖 AI Chatbot
 
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-  [![Deployed on Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chatbot-hazel-rho-31.vercel.app/)
+**A responsive, modern AI-powered chat application built with React, featuring persistent message history and a sleek UI.**
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![Deployed on Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chatbot-hazel-rho-31.vercel.app/)
 
   <p align="center">
     <a href="#-live-demo">Live Demo</a> •
@@ -50,21 +50,25 @@ Experience the application live here:
 To get a local copy up and running, follow these simple steps:
 
 ### Prerequisites
+
 Make sure you have Node.js and npm installed on your machine.
 
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/your-username/repo-name.git
    ```
 
 2. **Navigate to the project directory**
+
    ```bash
    cd repo-name
    ```
 
 3. **Install dependencies**
+
    ```bash
    npm install
    ```
@@ -79,7 +83,8 @@ Make sure you have Node.js and npm installed on your machine.
 ## 👤 Author
 
 **Sourabh**
-- GitHub: [Profile](https://github.com/your-username) *(Update with your actual link)*
+
+- GitHub: [Profile](https://github.com/ssourabhsoni953)
 
 <br />
 
